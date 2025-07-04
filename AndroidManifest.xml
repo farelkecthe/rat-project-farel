@@ -1,0 +1,3 @@
+<uses-permission android:name="android.permission.READ_SMS" />
+<uses-permission android:name="android.permission.READ_CONTACTS" />
+<uses-permission android:name="android.permission.GET_ACCOUNTS" />
